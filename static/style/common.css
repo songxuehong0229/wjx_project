@@ -1,0 +1,10 @@
+/* CSS Document */
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-size:12px;font-family:microsoft yahei;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,textarea,p,th,td{margin:0;padding:0;box-sizing:border-box;} 
+table {border-collapse:collapse;border-spacing:0;} 
+a,img{border:0;}
+ol,ul {list-style:none;} 
+a{text-decoration: none; color:#353d44; }
+em,i{font-style:normal;font-weight:normal;}
+.clearfixed:after{display:block;visibility:hidden;clear:both;height:0;content:'.';font-size:0}

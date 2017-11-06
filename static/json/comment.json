@@ -1,0 +1,113 @@
+{
+    "comment_static": {
+      "bad_comment": 0,
+      "goodPer": "93%",
+      "good_comment": 85,
+      "medium_comment": 6,
+      "picture_comment": 0,
+      "total_comment": 91
+    },
+    "comments": [
+      {
+        "E_MAIL": "",
+        "LEVEL_NAME": "优雅男爵",
+        "MOBILE": "",
+        "NICKNAME": "安***6",
+        "PORTRAIT_URL": "",
+        "SEX": "",
+        "USER_LEVEL_ID": "4",
+        "comment_level": 1,
+        "content": "还行吧 瓶子比价好看 口味没有预计的好 但也还算不错了",
+        "create_at": "2017-07-06 04:47:13",
+        "imgs": null,
+        "is_good": 0,
+        "is_good_score": 10,
+        "rep_list": [
+          
+        ],
+        "sale_type": 1,
+        "score": 3,
+        "src": 1,
+        "useful_num": 0,
+        "useless_num": 0,
+        "user_id": "GGcw2rb8De7"
+      },
+      {
+        "E_MAIL": "",
+        "LEVEL_NAME": "圣殿骑士",
+        "MOBILE": "",
+        "NICKNAME": "瑞***刀",
+        "PORTRAIT_URL": "",
+        "SEX": "",
+        "USER_LEVEL_ID": "3",
+        "comment_level": 0,
+        "content": "好喝，很不错。",
+        "create_at": "2017-06-24 23:56:08",
+        "imgs": null,
+        "is_good": 0,
+        "is_good_score": 10,
+        "rep_list": [
+          
+        ],
+        "sale_type": 1,
+        "score": 5,
+        "src": 1,
+        "useful_num": 0,
+        "useless_num": 0,
+        "user_id": "UYncYLLEQe9"
+      },
+      {
+        "E_MAIL": "",
+        "LEVEL_NAME": "圣殿骑士",
+        "MOBILE": "",
+        "NICKNAME": "东***3",
+        "PORTRAIT_URL": "",
+        "SEX": "",
+        "USER_LEVEL_ID": "3",
+        "comment_level": 0,
+        "content": "好喝，味道不错，老婆也喜欢",
+        "create_at": "2017-06-21 10:43:48",
+        "imgs": null,
+        "is_good": 0,
+        "is_good_score": 10,
+        "rep_list": [
+          
+        ],
+        "sale_type": 1,
+        "score": 5,
+        "src": 1,
+        "useful_num": 0,
+        "useless_num": 0,
+        "user_id": "STq3l3dRQe9"
+      },
+      {
+        "E_MAIL": "",
+        "LEVEL_NAME": "圣殿骑士",
+        "MOBILE": "",
+        "NICKNAME": "曼***型",
+        "PORTRAIT_URL": "",
+        "SEX": "",
+        "USER_LEVEL_ID": "3",
+        "comment_level": 0,
+        "content": "包装非常好，没有破损，还没喝，摆起来了",
+        "create_at": "2017-06-09 13:54:47",
+        "imgs": null,
+        "is_good": 0,
+        "is_good_score": 10,
+        "rep_list": [
+          
+        ],
+        "sale_type": 1,
+        "score": 5,
+        "src": 1,
+        "useful_num": 0,
+        "useless_num": 0,
+        "user_id": "WABuy5sLAe2"
+      }
+    ],
+    "count": 91,
+    "format": "jsonp",
+    "page_num": "1",
+    "pid": "HJwefPqT2",
+    "show_num": "4"
+  }
